@@ -1,4 +1,4 @@
-package com.css.repository;
+package com.css.cssboot.repository;
 
 import java.util.List;
 
